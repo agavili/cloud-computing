@@ -1,3 +1,3 @@
 # cloud-computing
 
-Assignments from Cloud Computing (CS 4740)
+Projects from Cloud Computing (CS 4740)
